@@ -1,0 +1,6 @@
+header {
+  position: fixed;
+  height: 70px;
+  width: 100%;
+  border-bottom: #888888 solid 1px;
+}

@@ -1,0 +1,13 @@
+footer {
+  bottom: 0px;
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  background: linear-gradient(269deg, #011030 -97%, #390866 97%);
+}
+p {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: antiquewhite;
+}
